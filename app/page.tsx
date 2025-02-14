@@ -17,12 +17,7 @@ import WorkSVG from "./assets/work/Work.svg";
 import {
   Card,
   CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-  CardFooter,
 } from "@/components/ui/card";
-import Ava from "./assets/testimonials/ava.svg";
 import Footer from "./components/Footer";
 
 export default function Home() {
